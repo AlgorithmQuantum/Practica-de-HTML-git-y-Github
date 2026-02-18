@@ -1,2 +1,2 @@
-# Pr-ctica-de-HTML-git-y-Github
+# Practica de HTML git y Github
 Práctica de HTML, git y Github
